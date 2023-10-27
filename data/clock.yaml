@@ -1,0 +1,9 @@
+path: /yolov5/clocks 
+train: images/train  
+val: images/val  
+test:  
+names:
+  0: low
+  1: middle
+  2: high
+

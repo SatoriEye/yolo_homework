@@ -1,0 +1,9 @@
+path: /yolov5/dataset 
+train: images/train  
+val: images/val  
+test:  
+names:
+  0: cow
+  1: flower
+  2: ship
+
